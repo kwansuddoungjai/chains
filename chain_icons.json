@@ -191,14 +191,6 @@
     "format": "png"
   }]
 }, {
-  "name": "soverunTestnet",
-  "icons": [{
-    "url": "ipfs://QmTYazUzgY9Nn2mCjWwFUSLy3dG6i2PvALpwCNQvx1zXyi",
-    "width": 1154,
-    "height": 1154,
-    "format": "png"
-  }]
-}, {
   "name": "gitshockchain",
   "icons": [{
     "url": "ipfs://bafkreifqpj5jkjazvh24muc7wv4r22tihzzl75cevgecxhvojm4ls6mzpq",
@@ -596,6 +588,14 @@
     "url": "ipfs://QmT5gJ5weBiLT3GoYuF5yRTRLdPLCVZ3tXznfqW7M8fxgG",
     "width": 400,
     "height": 400,
+    "format": "png"
+  }]
+}, {
+  "name": "doric",
+  "icons": [{
+    "url": "ipfs://QmdFEozqneC8abhpfgtGpvfKpWVEbL8eMZjJKtUPuBTanK",
+    "width": 988,
+    "height": 901,
     "format": "png"
   }]
 }, {
@@ -1391,6 +1391,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "stratis",
+  "icons": [{
+    "url": "ipfs://QmWiRBqfzoZ3GC7oCbYFqbwLyF4uDHM4eYdKUUJ7LHf2EA",
+    "width": 59,
+    "height": 55,
+    "format": "svg"
+  }]
+}, {
   "name": "pom",
   "icons": [{
     "url": "ipfs://QmePhfibWz9jnGUqF9Rven4x734br1h3LxrChYTEjbbQvo",
@@ -1815,6 +1823,14 @@
     "format": "png"
   }]
 }, {
+  "name": "larissa",
+  "icons": [{
+    "url": "ipfs://QmZTWoZ3LvivSinaJ4aSwqU8pCXw8oSZNnUCh4wwXxtAoQ",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "kardiachain",
   "icons": [{
     "url": "ipfs://QmXoHaZXJevc59GuzEgBhwRSH6kio1agMRvL8bD93pARRV",
@@ -2079,6 +2095,14 @@
     "format": "png"
   }]
 }, {
+  "name": "stabilitytestnet",
+  "icons": [{
+    "url": "ipfs://bafkreid3wd6ouu53r677q2z24a4eq5un5tlwbc4izfapcvvtrlhkmz43au",
+    "width": 133,
+    "height": 144,
+    "format": "png"
+  }]
+}, {
   "name": "xodex",
   "icons": [{
     "url": "ipfs://QmXt49jPfHUmDF4n8TF7ks6txiPztx6qUHanWmHnCoEAhW",
@@ -2221,6 +2245,14 @@
     "width": 396,
     "height": 418,
     "format": "png"
+  }]
+}, {
+  "name": "hychain",
+  "icons": [{
+    "url": "ipfs://QmcSJmAfk3iay6uCGJxgUPd9pTsRxbtF4BrNnC5txE9cg8",
+    "width": 400,
+    "height": 400,
+    "format": "jpg"
   }]
 }, {
   "name": "SUR",
@@ -2428,6 +2460,14 @@
     "url": "ipfs://Qmd26eRJxPb1jJg5Q4mC2M4kD9Jrs5vmcnr5LczHFMGwSD",
     "width": 128,
     "height": 128,
+    "format": "png"
+  }]
+}, {
+  "name": "superlumio",
+  "icons": [{
+    "url": "ipfs://QmXiatdz5WBFypfsudoDsFnsLdiHzDwcD3pWcHwBovbPiZ",
+    "width": 256,
+    "height": 256,
     "format": "png"
   }]
 }, {
@@ -2759,6 +2799,14 @@
     "format": "png"
   }]
 }, {
+  "name": "gtn",
+  "icons": [{
+    "url": "ipfs://bafkreid3wd6ouu53r677q2z24a4eq5un5tlwbc4izfapcvvtrlhkmz43au",
+    "width": 133,
+    "height": 144,
+    "format": "png"
+  }]
+}, {
   "name": "carbon",
   "icons": [{
     "url": "ipfs://QmQUHqi1gyuTuKmJQHqt9EyhN1FPmmmLNUK8u93nMGrxAy",
@@ -3044,6 +3092,14 @@
     "url": "ipfs://QmbENgHTymTUUArX5MZ2XXH69WGenirU3oamkRD448hYdz",
     "width": 282,
     "height": 250,
+    "format": "png"
+  }]
+}, {
+  "name": "bevm",
+  "icons": [{
+    "url": "ipfs://QmfMXiYn4xF9JwdjaqM5YKhqoByox51XvnL68VvKJS6yyu",
+    "width": 1000,
+    "height": 1000,
     "format": "png"
   }]
 }, {
@@ -3545,7 +3601,7 @@
 }, {
   "name": "bevmcanary",
   "icons": [{
-    "url": "ipfs://QmfMXiYn4xF9JwdjaqM5YKhqoByox51XvnL68VvKJS6yyu",
+    "url": "ipfs://QmdDHRKWaQErTzt4SdcVgoVHEzBHCswhoaojBxT9LNR6sq",
     "width": 1000,
     "height": 1000,
     "format": "png"
@@ -3836,6 +3892,14 @@
     "url": "ipfs://bafkreidoudwo453gr3hoxpreleguga73rm55yl6vuedxrfmhknljppqbiu",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "fraxtal",
+  "icons": [{
+    "url": "ipfs://bafkreiet3pmz37ymq6wlkglw5wmcee6jdyz4bbe4zg6h2voso2z2mf2s7q",
+    "width": 256,
+    "height": 256,
     "format": "png"
   }]
 }, {
@@ -4183,6 +4247,14 @@
     "format": "png"
   }]
 }, {
+  "name": "atleta",
+  "icons": [{
+    "url": "ipfs://QmV2JVr4FCcb6aRiUoA3wS5erLoxtLBLonQ1Nvz8fNuEcR",
+    "width": 128,
+    "height": 128,
+    "format": "png"
+  }]
+}, {
   "name": "p12",
   "icons": [{
     "url": "ipfs://bafkreieiro4imoujeewc4r4thf5hxj47l56j2iwuz6d6pdj6ieb6ub3h7e",
@@ -4220,6 +4292,14 @@
     "url": "ipfs://QmQ4V9JC25yUrYk2kFJwmKguSsZBQvtGcg6q9zkDV8mkJW",
     "width": 400,
     "height": 400,
+    "format": "png"
+  }]
+}, {
+  "name": "hubblenet",
+  "icons": [{
+    "url": "ipfs://QmU9t9fZaWiqpAZ9dw2ojTpJycnB8BxekLWVSCJikJVgjW",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
